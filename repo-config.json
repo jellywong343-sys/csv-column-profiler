@@ -1,0 +1,11 @@
+{
+  "name": "csv-column-profiler",
+  "description": "Profile CSV columns for types, missing values, uniqueness, ranges, and frequent values.",
+  "topics": [
+    "python",
+    "csv",
+    "data-profiling",
+    "data-quality",
+    "cli"
+  ]
+}

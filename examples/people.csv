@@ -1,0 +1,5 @@
+name,age,joined,city,active
+Alice,30,2026-01-15,Shanghai,true
+Bob,42,2025-12-01,Beijing,true
+Chen,28,2026-03-20,Shanghai,false
+Dana,,2026-04-10,Shenzhen,true
